@@ -1,0 +1,34 @@
+{
+    "animes": {
+        "data": [
+            {
+                "id": "1",
+                "name": "Kimetsu no Yaiba",
+                "rank": "1",
+                "season": "3",
+                "movies": "1"
+            },
+            {
+                "id": "2",
+                "name": "Jujutsu Kaisen",
+                "rank": "2",
+                "season": "1",
+                "movies": "1"
+            },
+            {
+                "id": "3",
+                "name": "Boku no Hero",
+                "rank": "5",
+                "season": "3",
+                "movies": "2"
+            },
+            {
+                "id": "4",
+                "name": "Horimiya",
+                "rank": "6",
+                "season": "1",
+                "movies": "0"
+            }
+        ]
+    }
+}
